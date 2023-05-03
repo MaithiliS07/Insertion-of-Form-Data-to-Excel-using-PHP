@@ -42,7 +42,7 @@
     }
 
     label{
-        font-size: 18px;
+        font-size: 17px;
         font-weight: 500;
         color: #030303;
         margin-bottom: 5px;
@@ -124,7 +124,7 @@
                 <button type="submit" name="submit" class="btn">Submit</button>
             </div>
         </form>
-        
+
     </div>
 </body>
 </html>
