@@ -12,6 +12,7 @@
     body{
         margin: 0;
         font-family: 'Inter', sans-serif;
+        padding: 0;
     }
 
     .box{
@@ -85,6 +86,7 @@
 
 <body>
     <div class="box">
+        
         <h1 class="title">Registration Form</h1>
         <form action="insert.php" method="POST" autocomplete="off">
             <div class="form-group">
@@ -122,6 +124,7 @@
                 <button type="submit" name="submit" class="btn">Submit</button>
             </div>
         </form>
+        
     </div>
 </body>
 </html>
